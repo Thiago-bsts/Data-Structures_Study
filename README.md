@@ -47,7 +47,8 @@ data-structures-study/
 
 * Java
 * Python
-* (em expansão...)
+* kotlin
+* JavaScript
 
 ---
 
